@@ -1,2 +1,2 @@
-# flipkart-copy
-Flipkart home page copy
+# flipkart-page-duplicate
+Flipkart home page duplicate
